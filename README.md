@@ -16,7 +16,8 @@ example secrets.json
   "SOURCE_EMAIL": "xxxx@xxxx.com"
 }
 
-example emails.json
+example emails.json, the emails contained here must be aws verified emails
 {
   "key": ["email1", "email2"]
 }
+
